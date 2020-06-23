@@ -1,0 +1,48 @@
+body{ 
+    background-color: plum;
+}
+.H1{ color: rebeccapurple;}
+
+h2 {
+    display: inline-block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+table{
+display: table;
+    border-collapse: inherit;
+    box-sizing: border-box;
+    border-spacing: 10px;
+    border-color: grey;}
+
+    ul{ list-style-type: none;}
+
+      .button { 
+          size: 20px:
+          text-decoration: none;
+          font-display: none ;
+          border: purple;
+        
+        background-color:purple;
+            animation-name: Example;
+            animation-duration: 10s;
+            padding: 15px;}
+            
+            @keyframes Example {
+            from {background-color:purple;}
+            to {background-color: plum}
+            }
+
+            a:-webkit-any-link {
+                color: -webkit-link;
+                cursor: pointer;
+                text-decoration: none;
+                color:white;
+
+            }
+            
