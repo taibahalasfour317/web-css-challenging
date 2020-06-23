@@ -19,7 +19,7 @@
 - Sidebar
 - Searchbar
 - Animitions
-- Transetion 
+- Transition 
 - Dropdown menu قائمة منسدلة
 
 بونص درجة ثانية :
